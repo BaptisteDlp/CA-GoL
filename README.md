@@ -11,7 +11,6 @@ The following is required to run this code: <br>
 <ul>
  <li> a C++ compiler </li>
  <li> SDL 1 + SDL_image1.2 librairies </li>
- <li> Gnuplot (optional but recommanded) </li>
 </ul>
 
 
