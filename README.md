@@ -1,6 +1,6 @@
 
 
-# CA-RPS
+# CA-GoL
 
 <!-- badges: start -->
 <!-- badges: end -->
